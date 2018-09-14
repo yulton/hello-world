@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+For the time being, i'm playing Github's tutorial.
+Nice to meet you.
